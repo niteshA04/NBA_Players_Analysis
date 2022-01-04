@@ -1,0 +1,1 @@
+SELECT * FROM nba.nba_data_combined;
